@@ -1,0 +1,5 @@
+jpa:
+  default:
+    properties:
+      hibernate:
+        physical_naming_strategy: "io.micronaut.data.hibernate.naming.DefaultPhysicalNamingStrategy"
